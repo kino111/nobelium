@@ -16,7 +16,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image.vercel.app/.png?theme=light&md=1&fontSize=125px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg&images=https%3A%2F%2Fcamo.githubusercontent.com%2F5d89c398a489f6a8b36b93f0f48f9d447ef427ba513493136a6452ee6c5044fc%2F68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76657263656c2e737667&images=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2389%2FPNG%2F512%2Fnotion_logo_icon_145025.png&widths=350&widths=350&widths=300&heights=350&heights=350&heights=300', // The link to generate OG image, don't end with a slash
   socialLink: 'https://t.me/Hitiko_Voice',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
